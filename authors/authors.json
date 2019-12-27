@@ -1,0 +1,29 @@
+[
+    {
+        "_id": "56cfc5d0-9f09-11e9-89a0-8dba047d8761",
+        "fullName": "Andrei",
+        "title": "Resume, CV and Cover Letter Writing Expert",
+        "description": "Avid marketer, researcher and a bookworm at heart. Loves reading biographies of great people and running as a form of meditation.",
+        "email": "andrei@andrei.com",
+        "linkedin": "https://www.linkedin.com/in/andrei/",
+        "twitter": "https://twitter.com/andrei"
+    },
+    {
+        "_id": "56cfc5d0-9f09-11e9-89a0-8dba047d8762",
+        "fullName": "Soren",
+        "title": "Resume, CV and Cover Letter Writing Expert",
+        "description": "Avid marketer, researcher and a bookworm at heart. Loves reading biographies of great people and running as a form of meditation.",
+        "email": "soren@soren.com",
+        "linkedin": "https://www.linkedin.com/in/soren/",
+        "twitter": "https://twitter.com/soren"
+    },
+    {
+        "_id": "56cfc5d0-9f09-11e9-89a0-8dba047d8763",
+        "fullName": "Christian",
+        "title": "Resume, CV and Cover Letter Writing Expert",
+        "description": "Avid marketer, researcher and a bookworm at heart. Loves reading biographies of great people and running as a form of meditation.",
+        "email": "christian@christian.com",
+        "linkedin": "https://www.linkedin.com/in/christian/",
+        "twitter": "https://twitter.com/christian"
+    }
+]
