@@ -1,0 +1,8 @@
+{
+    "fullName": (Mandatory) maxlength 60",
+    "title": (Mandatory) maxlength 50",
+    "description":  (Mandatory, max 600) ",
+    "email":  maxlength 60",
+    "linkedin": maxlength 60",
+    "twitter": maxlength 60"
+}
