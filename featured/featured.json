@@ -7,37 +7,91 @@
     },
     {
         "_id": "5ddbd3fa89e76b764e9609a5",
-        "category": "Cover Letter Writing Tips",
+        "category": "Cover Letter Writing Tips - Motivational Letters",
         "first": "58d00db0-b584-11e7-9638-11cf3de0a243",
         "second": "58d00db0-b584-11e7-9638-11cf3de0a244"
     },
     {
         "_id": "5ddbd3fa89e76b764e9609a6",
-        "category": "Examples",
+        "category": "Examples - CV",
+        "first": "58d00db0-b584-11e7-9638-11cf3de0a245",
+        "second": "58d00db0-b584-11e7-9638-11cf3de0a246"
+    },
+    {
+        "_id": "5ddbd3fa89e76b764e9609a6",
+        "category": "Examples - Resume",
+        "first": "58d00db0-b584-11e7-9638-11cf3de0a245",
+        "second": "58d00db0-b584-11e7-9638-11cf3de0a246"
+    },
+    {
+        "_id": "5ddbd3fa89e76b764e9609a6",
+        "category": "Examples - Cover Letter",
+        "first": "58d00db0-b584-11e7-9638-11cf3de0a245",
+        "second": "58d00db0-b584-11e7-9638-11cf3de0a246"
+    },
+    {
+        "_id": "5ddbd3fa89e76b764e9609a6",
+        "category": "Examples - Other",
         "first": "58d00db0-b584-11e7-9638-11cf3de0a245",
         "second": "58d00db0-b584-11e7-9638-11cf3de0a246"
     },
     {
         "_id": "5ddbd3fa89e76b764e9609a7",
-        "category": "Inspiring Stories",
+        "category": "Inspiring Stories - Novorésumé Community Stories",
+        "first": "58d00db0-b584-11e7-9638-11cf3de0a247",
+        "second": "58d00db0-b584-11e7-9638-11cf3de0a248"
+    },
+    {
+        "_id": "5ddbd3fa89e76b764e9609a7",
+        "category": "Inspiring Stories - Famous Stories",
         "first": "58d00db0-b584-11e7-9638-11cf3de0a247",
         "second": "58d00db0-b584-11e7-9638-11cf3de0a248"
     },
     {
         "_id": "5ddbd3fa89e76b764e9609a8",
-        "category": "Job Interviews & Find A Job",
+        "category": "Job Interviews & Find A Job - Job Interviews",
+        "first": "58d00db0-b584-11e7-9638-11cf3de0a249",
+        "second": "58d00db0-b584-11e7-9638-11cf3de0a250"
+    },
+    {
+        "_id": "5ddbd3fa89e76b764e9609a8",
+        "category": "Job Interviews & Find A Job - How To Find A Job",
+        "first": "58d00db0-b584-11e7-9638-11cf3de0a249",
+        "second": "58d00db0-b584-11e7-9638-11cf3de0a250"
+    },
+    {
+        "_id": "5ddbd3fa89e76b764e9609a8",
+        "category": "Job Interviews & Find A Job - Networking Tips",
         "first": "58d00db0-b584-11e7-9638-11cf3de0a249",
         "second": "58d00db0-b584-11e7-9638-11cf3de0a250"
     },
     {
         "_id": "5ddbd3fa89e76b764e9609a9",
-        "category": "Personal Development",
+        "category": "Personal Development - Motivation",
+        "first": "58d00db0-b584-11e7-9638-11cf3de0a251",
+        "second": "58d00db0-b584-11e7-9638-11cf3de0a252"
+    },
+    {
+        "_id": "5ddbd3fa89e76b764e9609a9",
+        "category": "Personal Development - Productivity & Focus",
+        "first": "58d00db0-b584-11e7-9638-11cf3de0a251",
+        "second": "58d00db0-b584-11e7-9638-11cf3de0a252"
+    },
+    {
+        "_id": "5ddbd3fa89e76b764e9609a9",
+        "category": "Personal Development - Personality & Career",
         "first": "58d00db0-b584-11e7-9638-11cf3de0a251",
         "second": "58d00db0-b584-11e7-9638-11cf3de0a252"
     },
     {
         "_id": "5ddbd3fa89e76b764e9609aa",
-        "category": "Resume & CV Writing Tips",
+        "category": "Resume & CV Writing Tips - Resume Writing Tips",
+        "first": "58d00db0-b584-11e7-9638-11cf3de0a253",
+        "second": "58d00db0-b584-11e7-9638-11cf3de0a254"
+    }
+    {
+        "_id": "5ddbd3fa89e76b764e9609aa",
+        "category": "Resume & CV Writing Tips - CV Writing Tips",
         "first": "58d00db0-b584-11e7-9638-11cf3de0a253",
         "second": "58d00db0-b584-11e7-9638-11cf3de0a254"
     }
