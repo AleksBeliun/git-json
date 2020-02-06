@@ -1,4 +1,10 @@
 {
     "_id": "5dd8041cb3dbb76f98ba3569",
-    "domains": "recruiter.com,  marlagottschalk.com, careersidekick.com, careersdonewrite.com, maybusch.com, interview-coach.co.uk, lists.linkedin.com, inomics.com, job.com, careerbuilder.com, joblist.com, ziprecruiter.com, simplyhired.com, linkup.com, roberthalf.com, usajobs.gov, snagajob.com, idealist.org, joblift.com, jobisjob.com, collegerecruiter.com, hired.com, dice.com, erasmusintern.org, internships.com, behance.net, dribble.com, prsa.org, mediabistro.com, weworkremotely.com, hubstaff.com, virtualassistants.com, angel.co, mashable.com, jobsinsports.com, hiremymom.com"
+    "domains": [
+        "recruiter.com",
+        "marlagottschalk.com",
+        "careersidekick.com",
+        "careersdonewrite.com",
+        "maybusch.com"
+    ]
 }
