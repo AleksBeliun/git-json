@@ -608,7 +608,13 @@
                 "keywords": "questions to ask an interviewer",
                 "description": "A job interview should not be a one-sided discussion. Find out the best questions to ask an interviewer and increase your chances of getting hired!"
             },
-            "header": "Questions to Ask an Interviewer [+15 Examples]"
+            "header": "Questions to Ask an Interviewer [+15 Examples]",
+            "background": {
+                "width": "",
+                "height": "",
+                "css": "center center / cover no-repeat",
+                "src": ""
+            }
         }
     },
     {
@@ -623,7 +629,13 @@
                 "keywords": "",
                 "description": ""
             },
-            "header": "Questions to Ask an Interviewer [+15 Examples]"
+            "header": "Questions to Ask an Interviewer [+15 Examples]",
+            "background": {
+                "width": "",
+                "height": "",
+                "css": "center center / cover no-repeat",
+                "src": ""
+            }
         }
     }
 ]
